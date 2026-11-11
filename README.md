@@ -1,6 +1,6 @@
 # Repository for "View Synthesis in Light Field Coding: A Subjective Quality Evaluation"
 
-This repository contains the supplementary data for the research article submitted to TCSVT. It includes coded light fields, original source views, subjective results, and encoding configurations.
+This repository contains the supplementary data for the research article submitted to IEEE Open Access. It includes coded light fields, original source views, subjective results, and encoding configurations.
 
 ---
 
